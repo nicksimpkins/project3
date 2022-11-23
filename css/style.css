@@ -141,6 +141,17 @@ h2 {
   margin-left: auto;
   border-radius: 15px;
 }
+.nav{
+  background-color: white;
+  border: 1px solid #ccc;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
 }
 @media screen and (max-width: 992px) {
 #contactinfo {
@@ -174,5 +185,16 @@ h2 {
   margin-right: auto;
   margin-left: auto;
   border-radius: 20px;
+}
+.nav{
+  background-color: white;
+  border: 1px solid #ccc;
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 }
