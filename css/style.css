@@ -108,7 +108,7 @@ h2 {
 .email {
   color: blue;
 }
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
 #contactinfo {
   padding: 5px;
   border: 2px solid red;
