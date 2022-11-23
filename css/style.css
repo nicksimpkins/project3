@@ -197,4 +197,7 @@ h2 {
   margin-right: auto;
   margin-left: auto;
 }
+body {
+	background-color: black;
+}
 }
