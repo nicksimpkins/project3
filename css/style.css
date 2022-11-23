@@ -108,93 +108,95 @@ h2 {
 .email {
   color: blue;
 }
+/** make boxes larger and expand navbar **/
 @media only screen and (max-width: 600px) {
-#contactinfo {
-  padding: 5px;
-  border: 2px solid #29609e;
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 15px;
+  #contactinfo {
+    padding: 5px;
+    border: 2px solid #29609e;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+  }
+  #edinfo {
+    padding: 5px;
+    border: 2px solid #29609e;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+  }
+  #workinfo {
+    padding: 5px;
+    border: 2px solid #29609e;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+  }
+  #skillsinfo {
+    padding: 5px;
+    border: 2px solid #29609e;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+  }
+  .nav{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
-#edinfo {
-  padding: 5px;
-  border: 2px solid #29609e;
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 15px;
-}
-#workinfo {
-  padding: 5px;
-  border: 2px solid #29609e;
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 15px;
-}
-#skillsinfo {
-  padding: 5px;
-  border: 2px solid #29609e;
-  width: 80%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 15px;
-}
-.nav{
-  background-color: white;
-  border: 1px solid #ccc;
-  width: 100%;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-  margin-right: auto;
-  margin-left: auto;
-}
-}
+/** make boxes larger and expand navbar **/
 @media screen and (max-width: 992px) {
-#contactinfo {
-  padding: 5px;
-  border: 4px solid #29609e;
-  width: 70%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 20px;
-}
-#edinfo {
-  padding: 5px;
-  border: 4px solid #29609e;
-  width: 70%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 20px;
-}
-#workinfo {
-  padding: 5px;
-  border: 4px solid #29609e;
-  width: 70%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 20px;
-}
-#skillsinfo {
-  padding: 5px;
-  border: 4px solid #29609e;
-  width: 70%;
-  margin-right: auto;
-  margin-left: auto;
-  border-radius: 20px;
-}
-.nav{
-  background-color: white;
-  border: 1px solid #ccc;
-  width: 100%;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-  margin-right: auto;
-  margin-left: auto;
-}
+  #contactinfo {
+    padding: 5px;
+    border: 4px solid #29609e;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+  }
+  #edinfo {
+    padding: 5px;
+    border: 4px solid #29609e;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+  }
+  #workinfo {
+    padding: 5px;
+    border: 4px solid #29609e;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+  }
+  #skillsinfo {
+    padding: 5px;
+    border: 4px solid #29609e;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px;
+  }
+  .nav{
+    background-color: white;
+    border: 1px solid #ccc;
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
