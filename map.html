@@ -2,8 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/mapstyle.css">
+  <script src="scripts/script.js"></script>
   <title>Map</title>
 </head>
 <body>
@@ -15,5 +18,10 @@
 	</ul>
   </nav>
   
+  <p>Here's the subway I used to work at.</p>
+  
+  <div id="map"></div>
+  <script src="https://maps.googleapis.com/maps/api/js?AIzaSyD5efZadPu9OYuBqeQ-ibSkI4TVLrrbAgw&callback=initMap" async defer></script>
+ 
 </body>
 </html>
