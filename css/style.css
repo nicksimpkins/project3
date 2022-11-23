@@ -111,7 +111,7 @@ h2 {
 @media only screen and (max-width: 600px) {
 #contactinfo {
   padding: 5px;
-  border: 2px solid red;
+  border: 2px solid #29609e;
   width: 80%;
   margin-right: auto;
   margin-left: auto;
@@ -140,9 +140,6 @@ h2 {
   margin-right: auto;
   margin-left: auto;
   border-radius: 15px;
-}
-body {
-    background-color: red;
 }
 }
 @media screen and (max-width: 992px) {
@@ -177,8 +174,5 @@ body {
   margin-right: auto;
   margin-left: auto;
   border-radius: 20px;
-}
-body {
-    background-color: red;
 }
 }
