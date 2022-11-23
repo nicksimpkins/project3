@@ -141,6 +141,9 @@ h2 {
   margin-left: auto;
   border-radius: 15px;
 }
+body {
+    background-color: red;
+}
 }
 @media screen and (max-width: 992px) {
 #contactinfo {
@@ -174,5 +177,8 @@ h2 {
   margin-right: auto;
   margin-left: auto;
   border-radius: 20px;
+}
+body {
+    background-color: red;
 }
 }
